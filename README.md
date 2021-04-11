@@ -18,3 +18,7 @@ Pasos para correr Laravel:
  2. `php artisan migrate`
  3. `php artisan serve`
  4. `registrarse`
+## Autor
+* Rocha Vicente Jesus Antonio
+### Contacto
+jesus_reddead@comunidad.unam.mx
